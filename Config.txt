@@ -1,0 +1,4 @@
+Region Layout:region.csv
+Time Limit:20
+Refresh Rate:1
+CitySize=20
